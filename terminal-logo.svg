@@ -1,0 +1,342 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 424" width="336" height="424">
+<style>
+text{font-family:Consolas,Monaco,'Courier New',monospace;}
+.w{fill:#e4a700;opacity:.75;font-size:17px;}
+.b{fill:#e4a700;opacity:.75;font-size:17px;}
+.a0{animation:k0 3.56s infinite}
+.a0r{animation:k0r 3.56s infinite}
+@keyframes k0{0%,21%{opacity:.75}22%,100%{opacity:0}}
+@keyframes k0r{0%,21%{opacity:0}22%,100%{opacity:.75}}
+.a1{animation:k1 3.97s infinite}
+.a1r{animation:k1r 3.97s infinite}
+@keyframes k1{0%,35%{opacity:.75}36%,100%{opacity:0}}
+@keyframes k1r{0%,35%{opacity:0}36%,100%{opacity:.75}}
+.a2{animation:k2 1.89s infinite}
+.a2r{animation:k2r 1.89s infinite}
+@keyframes k2{0%,67%{opacity:.75}68%,100%{opacity:0}}
+@keyframes k2r{0%,67%{opacity:0}68%,100%{opacity:.75}}
+.a3{animation:k3 1.41s infinite}
+.a3r{animation:k3r 1.41s infinite}
+@keyframes k3{0%,67%{opacity:.75}68%,100%{opacity:0}}
+@keyframes k3r{0%,67%{opacity:0}68%,100%{opacity:.75}}
+.a4{animation:k4 4.57s infinite}
+.a4r{animation:k4r 4.57s infinite}
+@keyframes k4{0%,25%{opacity:.75}26%,100%{opacity:0}}
+@keyframes k4r{0%,25%{opacity:0}26%,100%{opacity:.75}}
+.a5{animation:k5 3.36s infinite}
+.a5r{animation:k5r 3.36s infinite}
+@keyframes k5{0%,22%{opacity:.75}23%,100%{opacity:0}}
+@keyframes k5r{0%,22%{opacity:0}23%,100%{opacity:.75}}
+.a6{animation:k6 1.12s infinite}
+.a6r{animation:k6r 1.12s infinite}
+@keyframes k6{0%,33%{opacity:.75}34%,100%{opacity:0}}
+@keyframes k6r{0%,33%{opacity:0}34%,100%{opacity:.75}}
+.a7{animation:k7 1.93s infinite}
+.a7r{animation:k7r 1.93s infinite}
+@keyframes k7{0%,58%{opacity:.75}59%,100%{opacity:0}}
+@keyframes k7r{0%,58%{opacity:0}59%,100%{opacity:.75}}
+.a8{animation:k8 1.11s infinite}
+.a8r{animation:k8r 1.11s infinite}
+@keyframes k8{0%,32%{opacity:.75}33%,100%{opacity:0}}
+@keyframes k8r{0%,32%{opacity:0}33%,100%{opacity:.75}}
+.a9{animation:k9 3.86s infinite}
+.a9r{animation:k9r 3.86s infinite}
+@keyframes k9{0%,64%{opacity:.75}65%,100%{opacity:0}}
+@keyframes k9r{0%,64%{opacity:0}65%,100%{opacity:.75}}
+.a10{animation:k10 3.18s infinite}
+.a10r{animation:k10r 3.18s infinite}
+@keyframes k10{0%,34%{opacity:.75}35%,100%{opacity:0}}
+@keyframes k10r{0%,34%{opacity:0}35%,100%{opacity:.75}}
+.a11{animation:k11 2.8s infinite}
+.a11r{animation:k11r 2.8s infinite}
+@keyframes k11{0%,37%{opacity:.75}38%,100%{opacity:0}}
+@keyframes k11r{0%,37%{opacity:0}38%,100%{opacity:.75}}
+.a12{animation:k12 4.24s infinite}
+.a12r{animation:k12r 4.24s infinite}
+@keyframes k12{0%,20%{opacity:.75}21%,100%{opacity:0}}
+@keyframes k12r{0%,20%{opacity:0}21%,100%{opacity:.75}}
+.a13{animation:k13 4.04s infinite}
+.a13r{animation:k13r 4.04s infinite}
+@keyframes k13{0%,30%{opacity:.75}31%,100%{opacity:0}}
+@keyframes k13r{0%,30%{opacity:0}31%,100%{opacity:.75}}
+.a14{animation:k14 3.79s infinite}
+.a14r{animation:k14r 3.79s infinite}
+@keyframes k14{0%,41%{opacity:.75}42%,100%{opacity:0}}
+@keyframes k14r{0%,41%{opacity:0}42%,100%{opacity:.75}}
+.a15{animation:k15 2.11s infinite}
+.a15r{animation:k15r 2.11s infinite}
+@keyframes k15{0%,33%{opacity:.75}34%,100%{opacity:0}}
+@keyframes k15r{0%,33%{opacity:0}34%,100%{opacity:.75}}
+</style>
+<a href="https://tahirl.com" target="_blank">
+<rect x="1" y="1" width="334" height="422" rx="8" ry="8" fill="none" stroke="#e4a700" stroke-opacity=".3" stroke-width="2"/>
+<circle cx="24" cy="18" r="5.5" fill="#ef4444" opacity=".7"/>
+<circle cx="40" cy="18" r="5.5" fill="#eab308" opacity=".7"/>
+<circle cx="56" cy="18" r="5.5" fill="#22c55e" opacity=".7"/>
+<text x="312" y="22" text-anchor="end" font-size="11px" fill="#e4a700" opacity=".5" font-family="Consolas,Monaco,monospace">~/tahirl</text>
+<line x1="12" y1="36" x2="324" y2="36" stroke="#e4a700" stroke-opacity=".2"/>
+<text x="36" y="58" text-anchor="middle" dominant-baseline="central" class="b a10">0</text>
+<text x="36" y="58" text-anchor="middle" dominant-baseline="central" class="b a10r">1</text>
+<text x="60" y="58" text-anchor="middle" dominant-baseline="central" class="b a2">1</text>
+<text x="60" y="58" text-anchor="middle" dominant-baseline="central" class="b a2r">0</text>
+<text x="84" y="58" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="84" y="58" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="108" y="58" text-anchor="middle" dominant-baseline="central" class="w">t</text>
+<text x="132" y="58" text-anchor="middle" dominant-baseline="central" class="w">a</text>
+<text x="156" y="58" text-anchor="middle" dominant-baseline="central" class="w">h</text>
+<text x="180" y="58" text-anchor="middle" dominant-baseline="central" class="w">i</text>
+<text x="204" y="58" text-anchor="middle" dominant-baseline="central" class="w">r</text>
+<text x="228" y="58" text-anchor="middle" dominant-baseline="central" class="w">l</text>
+<text x="252" y="58" text-anchor="middle" dominant-baseline="central" class="b a11">1</text>
+<text x="252" y="58" text-anchor="middle" dominant-baseline="central" class="b a11r">0</text>
+<text x="276" y="58" text-anchor="middle" dominant-baseline="central" class="b a1">1</text>
+<text x="276" y="58" text-anchor="middle" dominant-baseline="central" class="b a1r">0</text>
+<text x="300" y="58" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="300" y="58" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="36" y="86" text-anchor="middle" dominant-baseline="central" class="b a2">1</text>
+<text x="36" y="86" text-anchor="middle" dominant-baseline="central" class="b a2r">0</text>
+<text x="60" y="86" text-anchor="middle" dominant-baseline="central" class="b a11">0</text>
+<text x="60" y="86" text-anchor="middle" dominant-baseline="central" class="b a11r">1</text>
+<text x="84" y="86" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="84" y="86" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="108" y="86" text-anchor="middle" dominant-baseline="central" class="w">h</text>
+<text x="132" y="86" text-anchor="middle" dominant-baseline="central" class="w">u</text>
+<text x="156" y="86" text-anchor="middle" dominant-baseline="central" class="w">u</text>
+<text x="180" y="86" text-anchor="middle" dominant-baseline="central" class="w">n</text>
+<text x="204" y="86" text-anchor="middle" dominant-baseline="central" class="w">e</text>
+<text x="228" y="86" text-anchor="middle" dominant-baseline="central" class="w">i</text>
+<text x="252" y="86" text-anchor="middle" dominant-baseline="central" class="b a7">1</text>
+<text x="252" y="86" text-anchor="middle" dominant-baseline="central" class="b a7r">0</text>
+<text x="276" y="86" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="276" y="86" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="300" y="86" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="300" y="86" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="36" y="114" text-anchor="middle" dominant-baseline="central" class="b a8">1</text>
+<text x="36" y="114" text-anchor="middle" dominant-baseline="central" class="b a8r">0</text>
+<text x="60" y="114" text-anchor="middle" dominant-baseline="central" class="b a11">0</text>
+<text x="60" y="114" text-anchor="middle" dominant-baseline="central" class="b a11r">1</text>
+<text x="84" y="114" text-anchor="middle" dominant-baseline="central" class="b a11">1</text>
+<text x="84" y="114" text-anchor="middle" dominant-baseline="central" class="b a11r">0</text>
+<text x="108" y="114" text-anchor="middle" dominant-baseline="central" class="w">e</text>
+<text x="132" y="114" text-anchor="middle" dominant-baseline="central" class="w">t</text>
+<text x="156" y="114" text-anchor="middle" dominant-baseline="central" class="w">m</text>
+<text x="180" y="114" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="180" y="114" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<text x="204" y="114" text-anchor="middle" dominant-baseline="central" class="w">a</text>
+<text x="228" y="114" text-anchor="middle" dominant-baseline="central" class="w">f</text>
+<text x="252" y="114" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="252" y="114" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="276" y="114" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="276" y="114" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="300" y="114" text-anchor="middle" dominant-baseline="central" class="b a14">1</text>
+<text x="300" y="114" text-anchor="middle" dominant-baseline="central" class="b a14r">0</text>
+<text x="36" y="142" text-anchor="middle" dominant-baseline="central" class="b a8">0</text>
+<text x="36" y="142" text-anchor="middle" dominant-baseline="central" class="b a8r">1</text>
+<text x="60" y="142" text-anchor="middle" dominant-baseline="central" class="b a10">0</text>
+<text x="60" y="142" text-anchor="middle" dominant-baseline="central" class="b a10r">1</text>
+<text x="84" y="142" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="84" y="142" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="108" y="142" text-anchor="middle" dominant-baseline="central" class="b a10">1</text>
+<text x="108" y="142" text-anchor="middle" dominant-baseline="central" class="b a10r">0</text>
+<text x="132" y="142" text-anchor="middle" dominant-baseline="central" class="w">h</text>
+<text x="156" y="142" text-anchor="middle" dominant-baseline="central" class="w">a</text>
+<text x="180" y="142" text-anchor="middle" dominant-baseline="central" class="b a8">0</text>
+<text x="180" y="142" text-anchor="middle" dominant-baseline="central" class="b a8r">1</text>
+<text x="204" y="142" text-anchor="middle" dominant-baseline="central" class="w">l</text>
+<text x="228" y="142" text-anchor="middle" dominant-baseline="central" class="w">e</text>
+<text x="252" y="142" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="252" y="142" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<text x="276" y="142" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="276" y="142" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<text x="300" y="142" text-anchor="middle" dominant-baseline="central" class="b a12">1</text>
+<text x="300" y="142" text-anchor="middle" dominant-baseline="central" class="b a12r">0</text>
+<text x="36" y="170" text-anchor="middle" dominant-baseline="central" class="b a4">1</text>
+<text x="36" y="170" text-anchor="middle" dominant-baseline="central" class="b a4r">0</text>
+<text x="60" y="170" text-anchor="middle" dominant-baseline="central" class="b a4">0</text>
+<text x="60" y="170" text-anchor="middle" dominant-baseline="central" class="b a4r">1</text>
+<text x="84" y="170" text-anchor="middle" dominant-baseline="central" class="b a8">1</text>
+<text x="84" y="170" text-anchor="middle" dominant-baseline="central" class="b a8r">0</text>
+<text x="108" y="170" text-anchor="middle" dominant-baseline="central" class="b a12">1</text>
+<text x="108" y="170" text-anchor="middle" dominant-baseline="central" class="b a12r">0</text>
+<text x="132" y="170" text-anchor="middle" dominant-baseline="central" class="w">e</text>
+<text x="156" y="170" text-anchor="middle" dominant-baseline="central" class="w">n</text>
+<text x="180" y="170" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="180" y="170" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="204" y="170" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="204" y="170" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="228" y="170" text-anchor="middle" dominant-baseline="central" class="b a1">0</text>
+<text x="228" y="170" text-anchor="middle" dominant-baseline="central" class="b a1r">1</text>
+<text x="252" y="170" text-anchor="middle" dominant-baseline="central" class="b a4">0</text>
+<text x="252" y="170" text-anchor="middle" dominant-baseline="central" class="b a4r">1</text>
+<text x="276" y="170" text-anchor="middle" dominant-baseline="central" class="b a13">0</text>
+<text x="276" y="170" text-anchor="middle" dominant-baseline="central" class="b a13r">1</text>
+<text x="300" y="170" text-anchor="middle" dominant-baseline="central" class="b a12">1</text>
+<text x="300" y="170" text-anchor="middle" dominant-baseline="central" class="b a12r">0</text>
+<text x="36" y="198" text-anchor="middle" dominant-baseline="central" class="b a14">1</text>
+<text x="36" y="198" text-anchor="middle" dominant-baseline="central" class="b a14r">0</text>
+<text x="60" y="198" text-anchor="middle" dominant-baseline="central" class="b a0">0</text>
+<text x="60" y="198" text-anchor="middle" dominant-baseline="central" class="b a0r">1</text>
+<text x="84" y="198" text-anchor="middle" dominant-baseline="central" class="b a8">1</text>
+<text x="84" y="198" text-anchor="middle" dominant-baseline="central" class="b a8r">0</text>
+<text x="108" y="198" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="108" y="198" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="132" y="198" text-anchor="middle" dominant-baseline="central" class="w">n</text>
+<text x="156" y="198" text-anchor="middle" dominant-baseline="central" class="b a13">0</text>
+<text x="156" y="198" text-anchor="middle" dominant-baseline="central" class="b a13r">1</text>
+<text x="180" y="198" text-anchor="middle" dominant-baseline="central" class="b a14">0</text>
+<text x="180" y="198" text-anchor="middle" dominant-baseline="central" class="b a14r">1</text>
+<text x="204" y="198" text-anchor="middle" dominant-baseline="central" class="b a8">0</text>
+<text x="204" y="198" text-anchor="middle" dominant-baseline="central" class="b a8r">1</text>
+<text x="228" y="198" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="228" y="198" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="252" y="198" text-anchor="middle" dominant-baseline="central" class="b a6">0</text>
+<text x="252" y="198" text-anchor="middle" dominant-baseline="central" class="b a6r">1</text>
+<text x="276" y="198" text-anchor="middle" dominant-baseline="central" class="b a11">0</text>
+<text x="276" y="198" text-anchor="middle" dominant-baseline="central" class="b a11r">1</text>
+<text x="300" y="198" text-anchor="middle" dominant-baseline="central" class="b a0">1</text>
+<text x="300" y="198" text-anchor="middle" dominant-baseline="central" class="b a0r">0</text>
+<text x="36" y="226" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="36" y="226" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="60" y="226" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="60" y="226" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="84" y="226" text-anchor="middle" dominant-baseline="central" class="b a9">0</text>
+<text x="84" y="226" text-anchor="middle" dominant-baseline="central" class="b a9r">1</text>
+<text x="108" y="226" text-anchor="middle" dominant-baseline="central" class="b a1">0</text>
+<text x="108" y="226" text-anchor="middle" dominant-baseline="central" class="b a1r">1</text>
+<text x="132" y="226" text-anchor="middle" dominant-baseline="central" class="w">t</text>
+<text x="156" y="226" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="156" y="226" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="180" y="226" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="180" y="226" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="204" y="226" text-anchor="middle" dominant-baseline="central" class="b a4">0</text>
+<text x="204" y="226" text-anchor="middle" dominant-baseline="central" class="b a4r">1</text>
+<text x="228" y="226" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="228" y="226" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="252" y="226" text-anchor="middle" dominant-baseline="central" class="b a8">1</text>
+<text x="252" y="226" text-anchor="middle" dominant-baseline="central" class="b a8r">0</text>
+<text x="276" y="226" text-anchor="middle" dominant-baseline="central" class="b a6">0</text>
+<text x="276" y="226" text-anchor="middle" dominant-baseline="central" class="b a6r">1</text>
+<text x="300" y="226" text-anchor="middle" dominant-baseline="central" class="b a9">1</text>
+<text x="300" y="226" text-anchor="middle" dominant-baseline="central" class="b a9r">0</text>
+<text x="36" y="254" text-anchor="middle" dominant-baseline="central" class="b a11">1</text>
+<text x="36" y="254" text-anchor="middle" dominant-baseline="central" class="b a11r">0</text>
+<text x="60" y="254" text-anchor="middle" dominant-baseline="central" class="b a14">0</text>
+<text x="60" y="254" text-anchor="middle" dominant-baseline="central" class="b a14r">1</text>
+<text x="84" y="254" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="84" y="254" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="108" y="254" text-anchor="middle" dominant-baseline="central" class="b a2">1</text>
+<text x="108" y="254" text-anchor="middle" dominant-baseline="central" class="b a2r">0</text>
+<text x="132" y="254" text-anchor="middle" dominant-baseline="central" class="w">i</text>
+<text x="156" y="254" text-anchor="middle" dominant-baseline="central" class="b a0">0</text>
+<text x="156" y="254" text-anchor="middle" dominant-baseline="central" class="b a0r">1</text>
+<text x="180" y="254" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="180" y="254" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="204" y="254" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="204" y="254" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="228" y="254" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="228" y="254" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="252" y="254" text-anchor="middle" dominant-baseline="central" class="b a1">1</text>
+<text x="252" y="254" text-anchor="middle" dominant-baseline="central" class="b a1r">0</text>
+<text x="276" y="254" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="276" y="254" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="300" y="254" text-anchor="middle" dominant-baseline="central" class="b a8">1</text>
+<text x="300" y="254" text-anchor="middle" dominant-baseline="central" class="b a8r">0</text>
+<text x="36" y="282" text-anchor="middle" dominant-baseline="central" class="b a6">0</text>
+<text x="36" y="282" text-anchor="middle" dominant-baseline="central" class="b a6r">1</text>
+<text x="60" y="282" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="60" y="282" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="84" y="282" text-anchor="middle" dominant-baseline="central" class="b a15">1</text>
+<text x="84" y="282" text-anchor="middle" dominant-baseline="central" class="b a15r">0</text>
+<text x="108" y="282" text-anchor="middle" dominant-baseline="central" class="b a6">0</text>
+<text x="108" y="282" text-anchor="middle" dominant-baseline="central" class="b a6r">1</text>
+<text x="132" y="282" text-anchor="middle" dominant-baseline="central" class="w">c</text>
+<text x="156" y="282" text-anchor="middle" dominant-baseline="central" class="b a3">1</text>
+<text x="156" y="282" text-anchor="middle" dominant-baseline="central" class="b a3r">0</text>
+<text x="180" y="282" text-anchor="middle" dominant-baseline="central" class="b a11">1</text>
+<text x="180" y="282" text-anchor="middle" dominant-baseline="central" class="b a11r">0</text>
+<text x="204" y="282" text-anchor="middle" dominant-baseline="central" class="b a13">1</text>
+<text x="204" y="282" text-anchor="middle" dominant-baseline="central" class="b a13r">0</text>
+<text x="228" y="282" text-anchor="middle" dominant-baseline="central" class="b a1">0</text>
+<text x="228" y="282" text-anchor="middle" dominant-baseline="central" class="b a1r">1</text>
+<text x="252" y="282" text-anchor="middle" dominant-baseline="central" class="b a1">1</text>
+<text x="252" y="282" text-anchor="middle" dominant-baseline="central" class="b a1r">0</text>
+<text x="276" y="282" text-anchor="middle" dominant-baseline="central" class="b a10">0</text>
+<text x="276" y="282" text-anchor="middle" dominant-baseline="central" class="b a10r">1</text>
+<text x="300" y="282" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="300" y="282" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="36" y="310" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="36" y="310" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<text x="60" y="310" text-anchor="middle" dominant-baseline="central" class="b a4">1</text>
+<text x="60" y="310" text-anchor="middle" dominant-baseline="central" class="b a4r">0</text>
+<text x="84" y="310" text-anchor="middle" dominant-baseline="central" class="b a5">1</text>
+<text x="84" y="310" text-anchor="middle" dominant-baseline="central" class="b a5r">0</text>
+<text x="108" y="310" text-anchor="middle" dominant-baseline="central" class="b a14">0</text>
+<text x="108" y="310" text-anchor="middle" dominant-baseline="central" class="b a14r">1</text>
+<text x="132" y="310" text-anchor="middle" dominant-baseline="central" class="b a2">1</text>
+<text x="132" y="310" text-anchor="middle" dominant-baseline="central" class="b a2r">0</text>
+<text x="156" y="310" text-anchor="middle" dominant-baseline="central" class="b a3">0</text>
+<text x="156" y="310" text-anchor="middle" dominant-baseline="central" class="b a3r">1</text>
+<text x="180" y="310" text-anchor="middle" dominant-baseline="central" class="b a0">0</text>
+<text x="180" y="310" text-anchor="middle" dominant-baseline="central" class="b a0r">1</text>
+<text x="204" y="310" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="204" y="310" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="228" y="310" text-anchor="middle" dominant-baseline="central" class="b a13">1</text>
+<text x="228" y="310" text-anchor="middle" dominant-baseline="central" class="b a13r">0</text>
+<text x="252" y="310" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="252" y="310" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="276" y="310" text-anchor="middle" dominant-baseline="central" class="b a12">0</text>
+<text x="276" y="310" text-anchor="middle" dominant-baseline="central" class="b a12r">1</text>
+<text x="300" y="310" text-anchor="middle" dominant-baseline="central" class="b a5">1</text>
+<text x="300" y="310" text-anchor="middle" dominant-baseline="central" class="b a5r">0</text>
+<text x="36" y="338" text-anchor="middle" dominant-baseline="central" class="b a0">1</text>
+<text x="36" y="338" text-anchor="middle" dominant-baseline="central" class="b a0r">0</text>
+<text x="60" y="338" text-anchor="middle" dominant-baseline="central" class="b a8">1</text>
+<text x="60" y="338" text-anchor="middle" dominant-baseline="central" class="b a8r">0</text>
+<text x="84" y="338" text-anchor="middle" dominant-baseline="central" class="b a9">1</text>
+<text x="84" y="338" text-anchor="middle" dominant-baseline="central" class="b a9r">0</text>
+<text x="108" y="338" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="108" y="338" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="132" y="338" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="132" y="338" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<text x="156" y="338" text-anchor="middle" dominant-baseline="central" class="b a6">0</text>
+<text x="156" y="338" text-anchor="middle" dominant-baseline="central" class="b a6r">1</text>
+<text x="180" y="338" text-anchor="middle" dominant-baseline="central" class="b a1">1</text>
+<text x="180" y="338" text-anchor="middle" dominant-baseline="central" class="b a1r">0</text>
+<text x="204" y="338" text-anchor="middle" dominant-baseline="central" class="b a1">0</text>
+<text x="204" y="338" text-anchor="middle" dominant-baseline="central" class="b a1r">1</text>
+<text x="228" y="338" text-anchor="middle" dominant-baseline="central" class="b a15">0</text>
+<text x="228" y="338" text-anchor="middle" dominant-baseline="central" class="b a15r">1</text>
+<text x="252" y="338" text-anchor="middle" dominant-baseline="central" class="b a1">0</text>
+<text x="252" y="338" text-anchor="middle" dominant-baseline="central" class="b a1r">1</text>
+<text x="276" y="338" text-anchor="middle" dominant-baseline="central" class="b a5">0</text>
+<text x="276" y="338" text-anchor="middle" dominant-baseline="central" class="b a5r">1</text>
+<text x="300" y="338" text-anchor="middle" dominant-baseline="central" class="b a2">0</text>
+<text x="300" y="338" text-anchor="middle" dominant-baseline="central" class="b a2r">1</text>
+<text x="36" y="366" text-anchor="middle" dominant-baseline="central" class="b a12">0</text>
+<text x="36" y="366" text-anchor="middle" dominant-baseline="central" class="b a12r">1</text>
+<text x="60" y="366" text-anchor="middle" dominant-baseline="central" class="b a7">0</text>
+<text x="60" y="366" text-anchor="middle" dominant-baseline="central" class="b a7r">1</text>
+<text x="84" y="366" text-anchor="middle" dominant-baseline="central" class="b a2">1</text>
+<text x="84" y="366" text-anchor="middle" dominant-baseline="central" class="b a2r">0</text>
+<text x="108" y="366" text-anchor="middle" dominant-baseline="central" class="b a10">1</text>
+<text x="108" y="366" text-anchor="middle" dominant-baseline="central" class="b a10r">0</text>
+<text x="132" y="366" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="132" y="366" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<text x="156" y="366" text-anchor="middle" dominant-baseline="central" class="b a7">1</text>
+<text x="156" y="366" text-anchor="middle" dominant-baseline="central" class="b a7r">0</text>
+<text x="180" y="366" text-anchor="middle" dominant-baseline="central" class="b a12">0</text>
+<text x="180" y="366" text-anchor="middle" dominant-baseline="central" class="b a12r">1</text>
+<text x="204" y="366" text-anchor="middle" dominant-baseline="central" class="b a9">1</text>
+<text x="204" y="366" text-anchor="middle" dominant-baseline="central" class="b a9r">0</text>
+<text x="228" y="366" text-anchor="middle" dominant-baseline="central" class="b a10">0</text>
+<text x="228" y="366" text-anchor="middle" dominant-baseline="central" class="b a10r">1</text>
+<text x="252" y="366" text-anchor="middle" dominant-baseline="central" class="b a0">1</text>
+<text x="252" y="366" text-anchor="middle" dominant-baseline="central" class="b a0r">0</text>
+<text x="276" y="366" text-anchor="middle" dominant-baseline="central" class="b a3">0</text>
+<text x="276" y="366" text-anchor="middle" dominant-baseline="central" class="b a3r">1</text>
+<text x="300" y="366" text-anchor="middle" dominant-baseline="central" class="b a6">1</text>
+<text x="300" y="366" text-anchor="middle" dominant-baseline="central" class="b a6r">0</text>
+<line x1="12" y1="386" x2="324" y2="386" stroke="#e4a700" stroke-opacity=".2"/>
+<text x="168" y="404" text-anchor="middle" font-size="11px" fill="#e4a700" opacity=".5" font-family="Consolas,Monaco,monospace">01010100 01000110 01000111</text>
+</a>
+</svg>
