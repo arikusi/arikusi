@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="143" viewBox="0 0 495 143" fill="none">
+  <style>
+    text { font-family: "Segoe UI", Ubuntu, sans-serif; }
+  </style>
+  <text x="25" y="35" font-size="18px" font-weight="600" fill="#e4a700">Most Used Languages</text>
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="25" y="55" width="445" height="8" rx="4"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#bar-clip)">
+      <rect x="25.0" y="55" width="214.6" height="8" fill="#3178c6"/>
+      <rect x="239.6" y="55" width="112.0" height="8" fill="#e34c26"/>
+      <rect x="351.6" y="55" width="97.0" height="8" fill="#3572A5"/>
+      <rect x="448.5" y="55" width="6.2" height="8" fill="#336790"/>
+      <rect x="454.7" y="55" width="4.4" height="8" fill="#dea584"/>
+      <rect x="459.1" y="55" width="4.1" height="8" fill="#fcb32c"/>
+      <rect x="463.2" y="55" width="4.0" height="8" fill="#f1e05a"/>
+      <rect x="467.2" y="55" width="2.8" height="8" fill="#663399"/>
+  </g>
+    <g transform="translate(25, 80)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 48.2%</text>
+    </g>
+    <g transform="translate(137, 80)">
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">HTML 25.2%</text>
+    </g>
+    <g transform="translate(249, 80)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 21.8%</text>
+    </g>
+    <g transform="translate(361, 80)">
+      <circle cx="5" cy="6" r="5" fill="#336790"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">PLpgSQL 1.4%</text>
+    </g>
+    <g transform="translate(25, 104)">
+      <circle cx="5" cy="6" r="5" fill="#dea584"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">Rust 1.0%</text>
+    </g>
+    <g transform="translate(137, 104)">
+      <circle cx="5" cy="6" r="5" fill="#fcb32c"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">MDX 0.9%</text>
+    </g>
+    <g transform="translate(249, 104)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">JavaScript 0.9%</text>
+    </g>
+    <g transform="translate(361, 104)">
+      <circle cx="5" cy="6" r="5" fill="#663399"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">CSS 0.6%</text>
+    </g>
+</svg>
