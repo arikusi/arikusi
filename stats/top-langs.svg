@@ -9,24 +9,24 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-      <rect x="25.0" y="55" width="279.3" height="8" fill="#3178c6"/>
-      <rect x="304.3" y="55" width="135.7" height="8" fill="#3572A5"/>
-      <rect x="439.9" y="55" width="17.1" height="8" fill="#f1e05a"/>
-      <rect x="457.0" y="55" width="8.2" height="8" fill="#663399"/>
-      <rect x="465.2" y="55" width="4.2" height="8" fill="#e34c26"/>
+      <rect x="25.0" y="55" width="280.3" height="8" fill="#3178c6"/>
+      <rect x="305.3" y="55" width="134.4" height="8" fill="#3572A5"/>
+      <rect x="439.6" y="55" width="17.5" height="8" fill="#f1e05a"/>
+      <rect x="457.1" y="55" width="8.1" height="8" fill="#663399"/>
+      <rect x="465.2" y="55" width="4.1" height="8" fill="#e34c26"/>
       <rect x="469.3" y="55" width="1.0" height="8" fill="#384d54"/>
   </g>
     <g transform="translate(25, 80)">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 62.8%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 63.0%</text>
     </g>
     <g transform="translate(137, 80)">
       <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 30.5%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 30.2%</text>
     </g>
     <g transform="translate(249, 80)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">JavaScript 3.8%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">JavaScript 3.9%</text>
     </g>
     <g transform="translate(361, 80)">
       <circle cx="5" cy="6" r="5" fill="#663399"/>
