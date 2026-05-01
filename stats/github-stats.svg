@@ -6,7 +6,7 @@
     <g transform="translate(25, 60)">
       <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="#e4a700" fill-opacity="0.9" fill-rule="evenodd" transform="translate(0, -2) scale(0.875)"/>
       <text x="24" y="11" font-size="12px" fill="#e4a700">Total Stars Earned:</text>
-      <text x="340" y="11" font-size="12px" font-weight="700" fill="#e4a700" text-anchor="end">28</text>
+      <text x="340" y="11" font-size="12px" font-weight="700" fill="#e4a700" text-anchor="end">29</text>
     </g>
     <g transform="translate(25, 85)">
       <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" fill="#e4a700" fill-opacity="0.9" fill-rule="evenodd" transform="translate(0, -2) scale(0.875)"/>
