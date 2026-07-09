@@ -9,28 +9,29 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-      <rect x="25.0" y="55" width="296.6" height="8" fill="#3178c6"/>
-      <rect x="321.6" y="55" width="120.5" height="8" fill="#3572A5"/>
-      <rect x="442.1" y="55" width="17.1" height="8" fill="#f1e05a"/>
-      <rect x="459.2" y="55" width="6.7" height="8" fill="#663399"/>
-      <rect x="465.9" y="55" width="3.4" height="8" fill="#e34c26"/>
-      <rect x="469.3" y="55" width="1.0" height="8" fill="#384d54"/>
+      <rect x="25.0" y="55" width="301.5" height="8" fill="#3178c6"/>
+      <rect x="326.5" y="55" width="114.8" height="8" fill="#3572A5"/>
+      <rect x="441.3" y="55" width="17.6" height="8" fill="#f1e05a"/>
+      <rect x="458.9" y="55" width="6.4" height="8" fill="#663399"/>
+      <rect x="465.2" y="55" width="3.6" height="8" fill="#e34c26"/>
+      <rect x="468.8" y="55" width="1.0" height="8" fill="#384d54"/>
+      <rect x="469.8" y="55" width="1.0" height="8" fill="#89e051"/>
   </g>
     <g transform="translate(25, 80)">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 66.7%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 67.8%</text>
     </g>
     <g transform="translate(137, 80)">
       <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 27.1%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 25.8%</text>
     </g>
     <g transform="translate(249, 80)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">JavaScript 3.8%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">JavaScript 3.9%</text>
     </g>
     <g transform="translate(361, 80)">
       <circle cx="5" cy="6" r="5" fill="#663399"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">CSS 1.5%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">CSS 1.4%</text>
     </g>
     <g transform="translate(25, 104)">
       <circle cx="5" cy="6" r="5" fill="#e34c26"/>
@@ -39,5 +40,9 @@
     <g transform="translate(137, 104)">
       <circle cx="5" cy="6" r="5" fill="#384d54"/>
       <text x="15" y="10" font-size="11px" fill="#e4a700">Dockerfile 0.2%</text>
+    </g>
+    <g transform="translate(249, 104)">
+      <circle cx="5" cy="6" r="5" fill="#89e051"/>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">Shell 0.1%</text>
     </g>
 </svg>
