@@ -9,8 +9,8 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-      <rect x="25.0" y="55" width="436.6" height="8" fill="#3178c6"/>
-      <rect x="461.6" y="55" width="6.6" height="8" fill="#3572A5"/>
+      <rect x="25.0" y="55" width="436.2" height="8" fill="#3178c6"/>
+      <rect x="461.2" y="55" width="7.0" height="8" fill="#3572A5"/>
       <rect x="468.2" y="55" width="1.1" height="8" fill="#f1e05a"/>
       <rect x="469.3" y="55" width="1.0" height="8" fill="#663399"/>
       <rect x="470.3" y="55" width="1.0" height="8" fill="#e34c26"/>
@@ -20,11 +20,11 @@
   </g>
     <g transform="translate(25, 80)">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 98.1%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">TypeScript 98.0%</text>
     </g>
     <g transform="translate(137, 80)">
       <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 1.5%</text>
+      <text x="15" y="10" font-size="11px" fill="#e4a700">Python 1.6%</text>
     </g>
     <g transform="translate(249, 80)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
