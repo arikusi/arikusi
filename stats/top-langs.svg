@@ -11,12 +11,12 @@
   <g clip-path="url(#bar-clip)">
       <rect x="25.0" y="55" width="436.2" height="8" fill="#3178c6"/>
       <rect x="461.2" y="55" width="7.0" height="8" fill="#3572A5"/>
-      <rect x="468.2" y="55" width="1.1" height="8" fill="#f1e05a"/>
-      <rect x="469.3" y="55" width="1.0" height="8" fill="#663399"/>
-      <rect x="470.3" y="55" width="1.0" height="8" fill="#e34c26"/>
-      <rect x="471.3" y="55" width="1.0" height="8" fill="#89e051"/>
-      <rect x="472.3" y="55" width="1.0" height="8" fill="#384d54"/>
-      <rect x="473.3" y="55" width="1.0" height="8" fill="#427819"/>
+      <rect x="468.2" y="55" width="1.0" height="8" fill="#f1e05a"/>
+      <rect x="469.2" y="55" width="1.0" height="8" fill="#663399"/>
+      <rect x="470.2" y="55" width="1.0" height="8" fill="#e34c26"/>
+      <rect x="471.2" y="55" width="1.0" height="8" fill="#89e051"/>
+      <rect x="472.2" y="55" width="1.0" height="8" fill="#384d54"/>
+      <rect x="473.2" y="55" width="1.0" height="8" fill="#427819"/>
   </g>
     <g transform="translate(25, 80)">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
